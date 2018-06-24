@@ -6,8 +6,8 @@
 /out-tsc
 
 
-# Environnments vars
-*/**/environments
+# Envrionment Variables
+**/environment.*
 
 # dependencies
 /node_modules
